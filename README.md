@@ -17,6 +17,6 @@ I created a simple database for an online store to practice what I've learned ab
 
 ## Tables
 
-The database has tables for customers, categories, products, orders and order items.
+The database has tables for customers, categories, objects, orders and order items.
 
 I will keep updating this project as I learn more SQL.
